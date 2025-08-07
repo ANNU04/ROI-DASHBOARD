@@ -1,0 +1,301 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+YouTube,NewLaunch,23,c334b733-bbb8-4378-950d-07af4df5ca1b,Running Shoes,2025-07-19,5,2157.5
+Twitch,FestiveDrop,21,1cd05000-eaea-4222-b68a-59f4d98a992f,Protein Powder,2025-06-13,3,5147.99
+Twitch,NewLaunch,41,e92dec35-9b23-4113-9f32-b3c658bbd0c1,Smartwatch,2025-08-01,4,4016.85
+LinkedIn,NewLaunch,12,1d10c70c-5b77-48ee-bc8e-a9595df199e8,Hair Serum,2025-08-04,2,675.16
+Twitch,FlashDeal,23,90e59b1f-e42f-4348-8dbd-1a9f8e311555,Running Shoes,2025-07-02,1,1502.72
+LinkedIn,SummerSale,36,9025125f-dfa1-48bd-a8a9-086f90589bcc,Running Shoes,2025-06-10,3,5444.71
+Instagram,FlashDeal,49,131216d8-9064-4984-8cbb-05b5a1adc98f,Hair Serum,2025-06-08,2,3699.34
+Email,SummerSale,18,1bffc1a4-5b6c-48cf-bc6d-5fb75ddbd9df,Protein Powder,2025-07-30,2,3573.95
+LinkedIn,SummerSale,36,273a7e9e-1460-4bfc-ac14-49e51dae1f5b,Smartwatch,2025-07-10,5,4375.49
+Twitch,SummerSale,36,a8df93b9-82ae-4bdd-b83a-75cbdf931ecc,Yoga Mat,2025-06-26,3,4763.07
+YouTube,NewLaunch,20,bf5ad3d1-b06a-4b4a-9dfd-1475800613e6,Yoga Mat,2025-07-20,1,695.51
+Email,FlashDeal,48,e313d245-a1ee-40be-9cac-83bfb57c5411,Smartwatch,2025-06-09,4,6313.32
+YouTube,FestiveDrop,45,2871caf3-11d9-4b4a-ac41-b73960157da9,Smartwatch,2025-07-13,3,4922.98
+Instagram,NewLaunch,10,796b1c86-79e8-4aef-b3ca-94351b0378ae,Yoga Mat,2025-08-05,2,2077.34
+Instagram,FestiveDrop,10,828b691b-c8cb-4807-8379-c0c08939232b,Smartwatch,2025-07-06,5,1863.63
+YouTube,NewLaunch,28,3a9fec24-894b-406f-90eb-03a2e684a571,Protein Powder,2025-06-28,2,1678.83
+Instagram,SummerSale,33,1e2aa3e3-8fbc-4be4-b416-74a32a8adc23,Running Shoes,2025-07-07,1,1697.8
+YouTube,NewLaunch,18,8073d85c-c309-4596-8c60-7c6980ef5531,Running Shoes,2025-07-22,3,2512.57
+Email,SummerSale,45,186c9463-5355-4631-8c0f-bd571dcabb17,Yoga Mat,2025-07-21,2,1673.9
+LinkedIn,FlashDeal,15,a728809b-dff6-47e3-b8e7-bb755d24b420,Smartwatch,2025-06-09,5,1271.69
+Instagram,FestiveDrop,15,2b31b836-9c72-4ecc-856f-89db63f106dc,Smartwatch,2025-07-26,3,1387.21
+Twitch,NewLaunch,6,86d1abd0-b7ab-416a-bf77-8ef918c233ff,Hair Serum,2025-06-11,2,2605.27
+YouTube,SummerSale,35,6e428e33-4355-443c-a9c7-a3a86e06ad71,Smartwatch,2025-06-13,4,3182.29
+YouTube,FlashDeal,17,3f603af5-ef2f-41c2-8784-b9044ece1d65,Hair Serum,2025-06-24,1,1592.61
+YouTube,FestiveDrop,39,a7d328a6-0d63-44a7-a156-27fd6c875edd,Protein Powder,2025-06-22,4,3886.24
+Twitch,NewLaunch,42,5814c7f2-27bf-4a11-ad09-a635a4dc1d02,Yoga Mat,2025-07-25,1,1983.24
+YouTube,FlashDeal,7,170cad5f-7707-4a96-b997-30846cb7c5d5,Running Shoes,2025-07-09,2,519.42
+YouTube,FlashDeal,43,ab5520f2-e90e-4a77-83e4-071bd2cbe858,Hair Serum,2025-07-19,2,2002.35
+Twitch,NewLaunch,48,f576e562-911d-42e7-a8ea-0d08f3ae5b33,Running Shoes,2025-06-27,5,5927.33
+Email,NewLaunch,34,1b6439e9-db44-487f-b8f8-51513dac287b,Hair Serum,2025-06-30,1,600.96
+YouTube,FestiveDrop,26,14bf2a15-9499-4ee3-a7a6-b19ea6dbda7d,Protein Powder,2025-06-28,2,3593.72
+Instagram,FestiveDrop,41,7ea8be1e-7ee0-4637-b551-dcdb128a5495,Protein Powder,2025-06-23,1,365.96
+Instagram,FestiveDrop,38,34317e4c-1ecc-4e6d-9210-db9964fa84c7,Running Shoes,2025-07-30,4,2185.68
+YouTube,FlashDeal,13,9b16ce18-d959-4048-a5d3-086f6ca358e1,Protein Powder,2025-06-25,2,1537.22
+Twitch,FlashDeal,45,e5c8847f-e5f9-465f-a4fc-c5202dd7bb1c,Hair Serum,2025-07-06,2,2303.1
+LinkedIn,NewLaunch,29,cba12b52-5aa6-4000-8eed-ed63a9a4e581,Protein Powder,2025-07-29,3,1302.68
+Twitch,FestiveDrop,25,5ca922a7-d049-4f12-8855-5b7165b176d0,Hair Serum,2025-07-26,5,4468.86
+Twitch,FestiveDrop,7,16e9d0d7-8a6b-4ee8-91d2-f0b2aa327897,Smartwatch,2025-06-10,4,1647.52
+Instagram,SummerSale,20,7aa919e6-6e76-49f8-a11a-699a1276b197,Protein Powder,2025-07-13,4,2149.54
+YouTube,SummerSale,21,3e6de456-b012-4fc8-a296-be88210ae684,Running Shoes,2025-08-02,2,2079.32
+LinkedIn,SummerSale,9,b28ca9df-f018-4fcf-bc17-39a132ac5652,Hair Serum,2025-06-10,2,760.5
+Twitch,SummerSale,49,05629cb4-c87b-4866-bcb7-8c8d8893bc2d,Running Shoes,2025-07-19,1,1016.06
+Instagram,FlashDeal,46,af79e28f-b363-4971-81da-88bf19113186,Smartwatch,2025-08-01,5,2419.78
+Instagram,SummerSale,22,41433466-7997-42b1-b8f7-7f45c7885c4f,Yoga Mat,2025-08-01,4,6681.04
+Instagram,SummerSale,48,961309a7-fc8a-4b5f-b62f-e6d9674e29fd,Protein Powder,2025-06-12,4,2797.61
+Instagram,FlashDeal,11,882589f0-3141-497e-a061-c2a6d2b0c5cc,Yoga Mat,2025-07-18,5,3751.56
+Twitch,NewLaunch,20,65bb0a56-311a-4ac6-a067-d35f8a3da5ac,Smartwatch,2025-07-18,1,944.77
+Email,NewLaunch,33,189f0722-3ae9-4771-9525-e8c8b333b151,Smartwatch,2025-06-21,2,1720.4
+Instagram,NewLaunch,45,57006595-b524-4a72-a178-eea02baf9cc9,Yoga Mat,2025-06-12,4,2132.3
+Instagram,FestiveDrop,47,0b77302c-539b-4995-ad99-25a41590096a,Running Shoes,2025-07-12,4,6590.88
+Instagram,FestiveDrop,34,0c208432-8590-4277-9727-4193bb05f98d,Smartwatch,2025-06-09,2,1060.45
+Instagram,SummerSale,18,aebc5597-28f8-4519-b87a-a4419c58c088,Yoga Mat,2025-06-24,5,6751.85
+LinkedIn,NewLaunch,1,37cbfeab-ef86-4630-aabe-f0f0e0f9948e,Yoga Mat,2025-07-07,3,2232.57
+Email,FestiveDrop,11,afdebd06-bb52-4104-b732-9563bcfc3d1e,Smartwatch,2025-06-27,4,6522.39
+LinkedIn,SummerSale,11,158bece6-0e48-4250-b2a1-3da4ed4934de,Smartwatch,2025-08-01,5,7766.56
+Twitch,SummerSale,8,ca4e04cb-6d01-433e-a41a-7c39ba9b7c4a,Smartwatch,2025-08-02,5,8369.88
+Twitch,FestiveDrop,50,67896d80-735f-4a07-b807-36778527bcf4,Running Shoes,2025-07-21,3,4808.95
+YouTube,NewLaunch,23,b429e8d0-a8e5-4214-b7b7-de379ec7aacb,Yoga Mat,2025-06-09,5,1686.74
+Twitch,FestiveDrop,25,22fcd00e-563d-4a9d-8d08-281236cbae60,Hair Serum,2025-07-23,3,4856.4
+LinkedIn,SummerSale,46,2cd634e4-3dbf-4163-836d-8bc1d7ae3a47,Yoga Mat,2025-06-16,4,3898.89
+YouTube,FestiveDrop,6,f3ef3247-7c9f-4141-a1ec-475b27fd714b,Hair Serum,2025-06-11,5,5517.79
+Email,SummerSale,24,3bec6cd5-e2b1-4036-b5df-3ee58bc53aa0,Yoga Mat,2025-06-22,4,3362.95
+LinkedIn,FestiveDrop,45,ef0b4736-de0a-48ed-9c1e-d58836dff940,Yoga Mat,2025-07-18,4,6674.05
+Twitch,NewLaunch,28,c3a07135-6a6b-40b1-becb-1dbf2c858a95,Protein Powder,2025-06-28,5,2491.88
+YouTube,FestiveDrop,26,a49457d1-440b-4754-90ee-8a973d5d0b2b,Hair Serum,2025-06-20,5,7420.98
+LinkedIn,NewLaunch,22,c40e98a9-947d-48f0-8c19-12082598e772,Protein Powder,2025-06-19,2,3780.86
+Email,FestiveDrop,24,98bb08ff-0cfc-48d2-a69f-daee5749dc60,Hair Serum,2025-07-11,1,523.11
+Twitch,FlashDeal,5,5117a42f-ca2e-41f1-9696-b910f8bc2cfc,Running Shoes,2025-06-24,1,1420.49
+YouTube,SummerSale,19,11befd87-833a-49e9-9c42-021006579031,Yoga Mat,2025-07-27,4,1395.97
+YouTube,FestiveDrop,37,f61013d9-a33b-4007-b381-e40a6c2063fa,Smartwatch,2025-07-04,5,6723.41
+Twitch,FestiveDrop,24,7e82a311-d00b-4fad-b78c-7875124d4979,Smartwatch,2025-07-19,5,4276.09
+Twitch,NewLaunch,17,7e4ff637-6561-4906-8adf-7cdb64895107,Running Shoes,2025-07-21,4,4384.52
+YouTube,FestiveDrop,29,fc420aad-d45d-4faa-8ceb-718eb1cedb51,Yoga Mat,2025-06-09,3,3082.43
+Email,NewLaunch,23,42f737fe-cf9d-4133-a0f2-7ed18863e508,Smartwatch,2025-06-11,2,3394.16
+Instagram,SummerSale,19,431fa734-724d-49a0-90d7-55794ae1e112,Hair Serum,2025-06-14,3,5101.17
+Instagram,NewLaunch,18,b248b9d4-f575-4f7d-9e42-0357515b7e43,Smartwatch,2025-06-19,4,3669.4
+YouTube,SummerSale,5,8217db5b-d0b8-4987-be3d-90350c6a61c0,Protein Powder,2025-07-11,4,2235.06
+Email,FestiveDrop,41,d1b21812-b489-46d5-87db-e27ea24990b7,Running Shoes,2025-06-11,5,2946.71
+YouTube,FestiveDrop,37,9158aef9-f5d8-4912-892c-aa6aa6e0209a,Hair Serum,2025-07-28,1,1758.75
+Twitch,FestiveDrop,36,78291897-50a2-4a97-862f-024b4836b13c,Protein Powder,2025-07-06,4,7243.14
+LinkedIn,FlashDeal,18,08b533aa-22dc-4fe9-8391-f088e9a2c52b,Smartwatch,2025-07-22,1,962.83
+YouTube,NewLaunch,12,1d86ab49-8b7f-49ec-8bf8-abb290ebcc11,Hair Serum,2025-07-24,5,3112.84
+LinkedIn,FestiveDrop,2,ddc6dc73-9a4a-4423-8ecd-59ed69834805,Yoga Mat,2025-06-28,2,2319.59
+Twitch,FlashDeal,6,d02148e3-aa68-43d7-a8e6-b4680002ed61,Hair Serum,2025-06-25,5,4218.52
+LinkedIn,SummerSale,34,8351c9de-7865-41c8-b5e9-ffcb933e6712,Hair Serum,2025-07-10,4,2814.1
+Instagram,FlashDeal,23,8045b002-114a-47c4-8d1d-3ff8d9d3ea67,Smartwatch,2025-08-03,2,3956.99
+YouTube,NewLaunch,33,4f6e6086-439e-4bc1-b9ff-a32a96fc3a2d,Smartwatch,2025-06-11,3,1240.48
+Instagram,FlashDeal,41,cb4aa24a-763d-4f62-b8d0-e70c24167b1e,Running Shoes,2025-07-11,2,1830.6
+Email,FestiveDrop,7,83ea9e3f-0d3c-4998-9deb-e1a350d9e57a,Yoga Mat,2025-07-01,1,1697.41
+Email,SummerSale,3,6d0a26d4-3a9a-47b9-a21c-fc91ffa88ae5,Protein Powder,2025-07-22,1,1762.08
+Email,FestiveDrop,26,d22ea15c-58f2-4c5d-a499-b549b211392c,Yoga Mat,2025-07-02,1,455.55
+Instagram,FestiveDrop,43,ba1ec072-48cf-4ae0-aceb-e09c91c900bc,Yoga Mat,2025-06-21,3,3977.51
+Instagram,FlashDeal,37,5bb8bba4-870a-4efe-bad7-f4a36396c2b7,Smartwatch,2025-07-04,1,1963.81
+LinkedIn,FestiveDrop,15,2ff1d4f7-3d40-4c83-87f8-2b997dab5669,Hair Serum,2025-06-11,5,6347.69
+Email,FestiveDrop,5,227b185c-e9c1-453c-be42-298165e0e6c3,Smartwatch,2025-06-25,5,1968.68
+Twitch,SummerSale,11,d2a87d0a-4bd6-4f8e-b125-6aa5ecd3ecf7,Protein Powder,2025-07-01,5,8296.77
+Email,FestiveDrop,12,add27fb6-007b-49b4-abdc-bf045b91668e,Running Shoes,2025-06-14,3,2400.52
+YouTube,SummerSale,44,055e6f7b-c9e1-456b-b652-4075da46c8fe,Yoga Mat,2025-06-19,1,1454.18
+Twitch,FlashDeal,18,a0942412-a34f-4ef3-80ce-d5c9d96e464d,Yoga Mat,2025-07-12,2,3077.25
+LinkedIn,SummerSale,30,a1abd1d3-3720-4a52-aefd-c8c270641a05,Yoga Mat,2025-06-29,2,635.73
+YouTube,FestiveDrop,47,11a945f3-dfb5-437f-b2f4-f1db91775331,Protein Powder,2025-07-17,2,3170.96
+Email,SummerSale,49,401ead11-d91a-454a-8497-402c96ae2841,Smartwatch,2025-07-23,4,1039.28
+LinkedIn,FestiveDrop,36,3f52ed82-16bd-4e95-ab3e-fde80f75eb72,Running Shoes,2025-07-23,1,1657.55
+Email,FestiveDrop,41,16309e31-7e7f-4d3a-943f-4062c08fda36,Yoga Mat,2025-07-24,3,2976.97
+Twitch,NewLaunch,21,2017cd2f-bfeb-4a1d-ba6f-ee3da4b7bf5b,Running Shoes,2025-07-31,5,4182.84
+Email,NewLaunch,2,d3ec48bb-87fd-4246-8972-c423b10e975d,Hair Serum,2025-07-30,2,3930.09
+LinkedIn,NewLaunch,14,865c140d-395d-4100-ad57-255f14336a89,Hair Serum,2025-07-18,3,4581.48
+LinkedIn,SummerSale,43,e3958f0b-e5a0-4711-baf1-40e5852abe1d,Smartwatch,2025-07-24,5,1909.95
+Email,SummerSale,10,9a53c1f0-0a9b-4804-a0e6-b6776b6c87b5,Protein Powder,2025-07-02,5,3570.84
+LinkedIn,SummerSale,9,e8dcda16-7318-4bc9-b99e-acd32e0510c6,Running Shoes,2025-07-24,1,1562.97
+Twitch,SummerSale,14,78b05dd8-744e-44a0-b560-bc6bd35af1ef,Protein Powder,2025-06-22,1,1752.45
+Instagram,FestiveDrop,16,b41ded76-e3e4-48d7-be0c-bf5d68e5cd82,Hair Serum,2025-07-13,4,4776.01
+LinkedIn,SummerSale,4,ce974542-e616-41de-8bd9-04febf62b2ad,Protein Powder,2025-07-17,5,2075.65
+Twitch,NewLaunch,49,b653b66e-316b-4112-a05a-b744197b8b72,Smartwatch,2025-07-03,4,3918.32
+Email,SummerSale,8,b449d009-2ece-4ae7-8e9e-1ceffa1cad71,Hair Serum,2025-07-15,5,6064.66
+LinkedIn,FestiveDrop,12,83bd6300-533e-48f8-a4f5-3fe82a0f6b08,Running Shoes,2025-06-16,4,3951.09
+Email,NewLaunch,9,ca4a0965-a4a6-4f78-9d2b-91b079a98556,Yoga Mat,2025-07-28,4,6823.47
+LinkedIn,FestiveDrop,28,c7b1a5ce-0921-40bb-8ef4-ef41b4096b61,Hair Serum,2025-06-30,5,4584.6
+Email,NewLaunch,16,ff0ce6bf-d1d1-4826-bba1-54a575c7fddb,Hair Serum,2025-07-05,2,1106.49
+Twitch,FlashDeal,46,9c7adad1-4f19-4e6f-986f-2176ee39550e,Running Shoes,2025-06-22,1,1767.01
+YouTube,FlashDeal,19,5a884ad2-adf4-4f42-94ce-ab47782d0106,Smartwatch,2025-06-28,2,1635.87
+LinkedIn,FlashDeal,5,dabf3496-17aa-4521-abe1-e41f994f36b3,Smartwatch,2025-07-08,4,3423.47
+Instagram,FlashDeal,47,a527d783-69dc-4308-98d6-799647deec25,Yoga Mat,2025-07-09,2,2256.72
+Instagram,FestiveDrop,42,25566757-32ef-4c40-98cb-bd62f7587786,Yoga Mat,2025-06-15,4,2258.87
+Instagram,SummerSale,10,6dfbbf90-7735-4e24-8cbe-2da8a54d8d0f,Smartwatch,2025-06-11,2,1202.76
+LinkedIn,SummerSale,3,c775ff9e-9701-496a-b07a-60b3805dadf4,Protein Powder,2025-06-14,2,2337.22
+Twitch,FestiveDrop,35,db856d4d-ea94-4338-8619-5c2ca28e4ed6,Hair Serum,2025-07-02,5,6653.74
+LinkedIn,FestiveDrop,20,0f36a926-8bab-4caa-8897-b67e4f4a47bf,Running Shoes,2025-06-24,4,1319.69
+LinkedIn,FlashDeal,48,896f7fd9-019c-44d0-8939-2359a91f2cb5,Protein Powder,2025-06-26,5,1838.21
+Twitch,FlashDeal,27,b44f060b-7941-459e-816a-09bf9918569b,Protein Powder,2025-06-24,2,2549.35
+LinkedIn,SummerSale,20,ac805b67-0d29-4f4e-afe3-7fe6aa299ae5,Hair Serum,2025-06-24,1,1242.03
+Twitch,FestiveDrop,46,9838126a-9697-4334-967a-8b57ad724a4a,Protein Powder,2025-07-05,1,325.16
+Email,NewLaunch,23,630a908e-e1b0-4c38-9cf0-0e698c649758,Protein Powder,2025-06-15,2,1118.12
+Twitch,NewLaunch,29,2266a55d-e114-427d-95b8-1b8bdf8dda31,Running Shoes,2025-06-23,3,2250.92
+Instagram,FlashDeal,5,ed35fd86-32dc-4621-8da3-332954f8e936,Protein Powder,2025-07-18,4,3209.93
+YouTube,FlashDeal,21,92c6136d-ba80-481f-9efa-f5aaa53438e2,Smartwatch,2025-07-20,1,1920.81
+Email,SummerSale,41,6273f8b1-8c9c-46b0-a9d9-707071e9f34e,Yoga Mat,2025-07-20,4,6504.45
+Twitch,NewLaunch,12,31d9112d-9520-4896-b45e-894badc00440,Yoga Mat,2025-07-31,2,3698.23
+Instagram,SummerSale,5,038b9fcc-e1e9-436c-bcf4-5936537a5f3e,Running Shoes,2025-07-20,4,7156.67
+Instagram,FlashDeal,16,b5236112-97b0-48a7-a2c9-e0aa28706d30,Protein Powder,2025-06-10,4,1833.93
+Email,FestiveDrop,35,126be3d8-2c27-42d9-9983-58da43073254,Running Shoes,2025-07-22,3,4524.45
+Email,FlashDeal,5,cc7c4019-b66d-45d0-a2a4-a8b5201f2e89,Smartwatch,2025-07-20,5,2971.37
+Email,NewLaunch,33,bd7308a1-b642-4a1c-8b71-8f495bd84ef7,Smartwatch,2025-06-14,4,5173.61
+Twitch,SummerSale,34,dc2ca903-bbc9-4614-8eea-cdacee1f5ae7,Yoga Mat,2025-06-08,5,4481.28
+Twitch,FestiveDrop,32,a5f60d36-313f-466b-a441-3fe3587a4f0f,Protein Powder,2025-07-28,5,2520.25
+LinkedIn,NewLaunch,37,24c7e148-b728-489b-812b-af0fcba53829,Protein Powder,2025-07-12,2,1394.21
+Instagram,FlashDeal,38,96dd7017-9e56-4550-8c35-6e72c081c24a,Hair Serum,2025-06-30,2,465.58
+Instagram,NewLaunch,28,ba5a25b6-ea27-407a-835c-8cb297e69eb8,Protein Powder,2025-07-15,4,5276.46
+Instagram,NewLaunch,20,823e84b5-fc63-423d-bd21-94cc2c1eee54,Smartwatch,2025-06-11,5,1466.66
+YouTube,FestiveDrop,13,d18f55dd-7b96-4261-a282-86d026ecbcf3,Hair Serum,2025-06-21,1,693.22
+LinkedIn,NewLaunch,14,559ea8bd-5dc6-440a-9ebc-39fdb511b76f,Running Shoes,2025-07-14,1,1132.51
+Email,FlashDeal,40,7a403e4e-671a-46b7-9245-7dfcb84dc288,Protein Powder,2025-06-10,3,815.83
+Email,FestiveDrop,15,d3fabb54-355b-486e-b487-fe616f67526e,Running Shoes,2025-07-29,4,4581.25
+Email,SummerSale,25,e3f135f5-7b35-4d53-9d0d-910d474ba8e6,Smartwatch,2025-07-21,2,3365.57
+YouTube,FlashDeal,20,c52cb9ce-293e-4ea5-aabd-3cfe4c6c034c,Yoga Mat,2025-07-06,5,9860.58
+LinkedIn,FestiveDrop,9,9c9af77f-3366-4eae-82a1-49415ea176f2,Hair Serum,2025-07-19,2,3490.65
+YouTube,FlashDeal,43,3d4db9d1-c34d-4443-b43b-8ebd17192f64,Yoga Mat,2025-06-28,2,3123.85
+Email,SummerSale,17,1371ada0-f886-419f-89b1-b164adaaacd9,Protein Powder,2025-07-25,5,8222.09
+LinkedIn,NewLaunch,14,a2b0780f-3bc6-4743-9090-407a229f7f55,Running Shoes,2025-06-09,3,4071.55
+Email,FestiveDrop,18,921f0077-d383-4cbc-93da-88cb50be70de,Running Shoes,2025-06-23,5,1960.05
+LinkedIn,NewLaunch,3,cc503e5f-c0bb-4c55-89d7-dc62928d07f2,Protein Powder,2025-08-06,4,5670.94
+LinkedIn,NewLaunch,40,620432ca-6c99-4600-8d19-d3a29d4bd426,Running Shoes,2025-08-06,3,5167.94
+Instagram,SummerSale,8,3a5f4466-e893-4ed2-98e2-5b91d1ab9e0c,Hair Serum,2025-06-28,3,1473.43
+LinkedIn,SummerSale,43,ce1d56ee-b5b8-4885-b4ea-62df40aacd8a,Running Shoes,2025-06-20,2,2940.63
+LinkedIn,NewLaunch,41,b14028f7-5b52-426f-a6af-5bcc54f50f07,Hair Serum,2025-06-30,2,3150.32
+LinkedIn,SummerSale,49,209cf5ff-e406-4e34-b8b5-90a0fd8c6671,Hair Serum,2025-06-29,1,696.81
+Instagram,FestiveDrop,38,450ee49a-ff4d-412b-806a-a2da29e74be9,Hair Serum,2025-06-23,4,7806.09
+LinkedIn,NewLaunch,3,e1a67012-feaa-411c-be29-bcd8e19e81c4,Running Shoes,2025-07-12,4,7499.7
+LinkedIn,FlashDeal,48,91f77367-bced-4d06-adc1-29df1090db25,Running Shoes,2025-07-13,2,1106.36
+Instagram,FestiveDrop,4,a4e056ce-43ed-48ca-a9d2-63d29b3f7901,Smartwatch,2025-07-12,3,4489.23
+Email,FestiveDrop,4,6637eba0-c06e-4e36-9add-ae5523807518,Yoga Mat,2025-06-16,4,2722.44
+Instagram,NewLaunch,35,81f7bea9-8e05-4ef0-a2cf-7fb6d0ebb48c,Hair Serum,2025-07-11,1,511.44
+Instagram,FestiveDrop,16,6780d11f-4260-42a7-86a2-766d819597ed,Smartwatch,2025-07-06,2,3594.64
+LinkedIn,SummerSale,25,0e3dd281-2fd9-4e44-9138-eb9c4d701dbd,Hair Serum,2025-06-23,5,1582.45
+Email,SummerSale,17,c3533333-7c2b-4876-b8f5-daf401edf87f,Hair Serum,2025-06-18,2,1976.44
+Email,SummerSale,9,0024ee0f-4ce2-46f8-844a-242ab6aa3fc0,Smartwatch,2025-07-29,1,994.04
+Instagram,SummerSale,39,111adb2a-6898-47df-8ac8-79baaa2cc8da,Smartwatch,2025-07-24,5,7089.69
+YouTube,SummerSale,30,0bfc4ef7-2580-465b-89ec-461311961b02,Running Shoes,2025-07-18,5,7287.06
+Instagram,FlashDeal,34,be688dcb-8220-40f3-b265-bb10e3e652ac,Hair Serum,2025-07-19,3,4053.04
+Twitch,SummerSale,40,3f5a52e5-93ae-4987-b158-684431fb5288,Smartwatch,2025-07-03,3,1026.93
+Instagram,FlashDeal,1,7ff2d289-1db7-48ff-9083-f87143393606,Protein Powder,2025-06-25,2,1747.46
+LinkedIn,FlashDeal,46,d6ba38c8-8ead-4355-b665-c00d3e874073,Protein Powder,2025-07-25,3,4284.27
+Twitch,FlashDeal,11,9f525fcf-6d11-4398-b955-ea0a0eed5118,Yoga Mat,2025-07-27,4,1902.84
+Instagram,SummerSale,43,bf643542-09f6-4c0a-bf01-bd47e113aba8,Smartwatch,2025-07-01,4,1667.03
+LinkedIn,NewLaunch,36,07ad181e-69ee-46d8-81e2-01db32cc88fa,Yoga Mat,2025-07-11,1,1841.44
+LinkedIn,SummerSale,25,9ecfaf28-01ac-4016-bde1-e19b9e838663,Yoga Mat,2025-06-15,3,1130.03
+Instagram,FlashDeal,34,f9aebfbc-402f-4130-8b55-7fa113102fef,Smartwatch,2025-06-16,5,1714.96
+Twitch,FestiveDrop,49,2d87b2b3-c372-429e-a426-1d2290d00465,Protein Powder,2025-07-16,3,2678.05
+YouTube,FlashDeal,3,868b33c8-b844-47ce-8dfa-1bade6c327b3,Hair Serum,2025-07-10,1,700.61
+Twitch,SummerSale,31,c0cb439b-2b16-46d2-8742-caea5d3b00f5,Yoga Mat,2025-07-06,2,901.91
+Email,FestiveDrop,16,cd64dc64-56c0-46f4-90f0-c05e08509ff7,Protein Powder,2025-06-23,5,3387.7
+Instagram,NewLaunch,24,c505d8bd-85c0-4035-9422-cea0e15bb684,Running Shoes,2025-07-24,1,1535.85
+Twitch,NewLaunch,28,b9ed3bc3-8552-47f3-9d48-c65aa9432664,Hair Serum,2025-07-06,1,551.26
+YouTube,FlashDeal,22,7588f538-15e8-4e68-8efc-308766d217d6,Smartwatch,2025-06-29,5,1225.7
+Twitch,FestiveDrop,5,3dc228a9-2b97-434c-8439-85a7e00c7c47,Hair Serum,2025-08-03,4,4015.67
+YouTube,NewLaunch,26,8c7b8139-f676-4b92-920f-f394f298ceb4,Running Shoes,2025-06-23,3,5869.76
+Twitch,NewLaunch,46,4dd994aa-1391-472b-a65b-67f3a30c9c16,Protein Powder,2025-06-21,5,8070.91
+Instagram,FlashDeal,1,7a662820-1d1a-49ba-83e8-20c6d5ea48fd,Protein Powder,2025-07-21,4,6065.19
+Instagram,NewLaunch,16,2b962c22-d195-41cf-9248-964f2e6acac5,Yoga Mat,2025-07-15,1,353.12
+YouTube,SummerSale,34,500901ee-ea7a-4c05-801b-da14ed35a496,Protein Powder,2025-06-10,2,3924.38
+YouTube,NewLaunch,18,5f294d0e-325e-4c87-a8d3-ffde3cdfa9ee,Hair Serum,2025-07-29,4,6756.7
+YouTube,FlashDeal,5,3638ca99-4129-4b35-a33c-3a6d5879274b,Running Shoes,2025-06-17,4,5178.65
+Instagram,FestiveDrop,44,86241f63-e155-4729-bfd2-1d16d204509b,Running Shoes,2025-07-30,5,8692.51
+Instagram,SummerSale,30,d6762be8-2240-409d-ae45-9ea005e6130a,Running Shoes,2025-07-24,2,2114.99
+Instagram,FlashDeal,21,86cb5a32-68e6-4b6c-b174-a1259763b82b,Running Shoes,2025-06-22,1,1112.64
+Email,SummerSale,48,c580b3bb-d1d9-424f-bb8e-68d39c75b9c2,Hair Serum,2025-07-29,1,570.36
+YouTube,NewLaunch,30,c3ab8e42-f234-4a75-a242-06f97128d9ff,Protein Powder,2025-07-28,5,9772.41
+YouTube,FestiveDrop,47,0b1f578e-6768-43fb-95f4-6817cfdb6cef,Smartwatch,2025-07-07,3,4108.62
+Email,SummerSale,30,07c28003-44c4-4909-99d5-a622f4234439,Protein Powder,2025-07-13,2,924.98
+Email,FestiveDrop,16,9abde0c3-a81b-4af2-9548-50f66f9b121c,Running Shoes,2025-06-27,4,4273.03
+Instagram,FestiveDrop,34,f69dda2f-4ada-4404-980e-d31ec9c3f230,Protein Powder,2025-07-11,3,2628.99
+Twitch,NewLaunch,42,4775f51d-7539-4b7e-830f-360d92d98541,Running Shoes,2025-06-24,5,9351.49
+Email,FestiveDrop,44,ace03995-1654-4989-a49c-c38abf65b5b7,Smartwatch,2025-08-03,2,467.4
+YouTube,SummerSale,35,5c451c74-7962-480e-b0b0-cee21387b0ca,Running Shoes,2025-06-16,5,6350.47
+LinkedIn,FestiveDrop,14,2677ceaf-3bf8-4821-ba59-737600044750,Running Shoes,2025-06-14,4,5498.81
+LinkedIn,FestiveDrop,45,721e9b26-f449-482b-b68c-0646dc28c3c4,Smartwatch,2025-07-05,2,1551.85
+Twitch,FestiveDrop,7,57ed513e-d8d2-46d6-a8cd-12a59216d541,Yoga Mat,2025-06-19,4,6811.76
+Email,SummerSale,45,94a27f5d-f03a-4509-aba1-39207c9b781d,Running Shoes,2025-07-16,1,325.64
+Instagram,FestiveDrop,16,1b50f7c0-712f-4e3a-97da-0287e6d17708,Protein Powder,2025-07-23,5,7945.81
+LinkedIn,FlashDeal,11,a5554592-fb15-4b94-a5ed-425e53ada21c,Smartwatch,2025-07-08,3,5503.64
+Instagram,FestiveDrop,50,05247cec-5b90-4ec4-8269-ea673a83f04b,Protein Powder,2025-07-17,4,2584.37
+LinkedIn,NewLaunch,27,138e413b-98dc-4e3d-9f22-bc06bde33bc8,Smartwatch,2025-07-11,5,8556.21
+Twitch,NewLaunch,27,dcef8907-bb8b-43e0-9a40-289ace398e4b,Protein Powder,2025-06-23,5,3393.17
+Instagram,FestiveDrop,32,f782da31-2421-4eb4-ba8d-8d03af4737c4,Protein Powder,2025-07-03,5,2134.08
+LinkedIn,NewLaunch,38,15ed385e-7363-4a7e-9090-92c0979d02a9,Yoga Mat,2025-07-05,4,5942.26
+Email,FestiveDrop,25,8d7c53d9-b8db-4ff1-9167-7ebe048dc3bb,Protein Powder,2025-07-07,3,4380.46
+YouTube,FlashDeal,23,897ef75e-d3da-4979-9572-a0b5df6b6018,Running Shoes,2025-07-12,2,3725.38
+Email,NewLaunch,11,449d7a32-deb2-4384-8c32-eeefda896c30,Yoga Mat,2025-08-04,4,2625.45
+Twitch,FestiveDrop,24,44e1c538-7a48-4a58-836a-0a2a54db1a9e,Smartwatch,2025-06-29,4,6184.07
+LinkedIn,FestiveDrop,43,a8955f90-1442-4e44-8822-cd98fea4c317,Hair Serum,2025-06-13,3,2642.0
+LinkedIn,FlashDeal,13,6acf6980-f504-4c2f-a5b0-7b0c302e0b56,Running Shoes,2025-07-09,5,7254.31
+LinkedIn,FlashDeal,18,60a61ee7-db4e-4675-b130-c53752d43429,Yoga Mat,2025-07-31,2,2649.17
+Twitch,NewLaunch,26,44673370-b700-4111-ba14-f0b7f46fb1b0,Smartwatch,2025-07-09,1,502.79
+Email,NewLaunch,24,4392158b-6fd2-485f-8a0a-7da33f19b563,Hair Serum,2025-06-18,2,731.63
+Instagram,NewLaunch,14,c704bd7a-734f-47a5-bea9-962e02e83419,Running Shoes,2025-06-14,4,4692.25
+Twitch,FlashDeal,13,d8bde3a9-7073-4997-8ddd-9a838257578d,Running Shoes,2025-06-13,4,2031.47
+Instagram,FlashDeal,31,f2ce68dd-2e27-4d21-af60-d95895b02312,Yoga Mat,2025-07-04,4,1044.35
+YouTube,FestiveDrop,30,302563bf-db3e-4188-a361-aa16ab7333b5,Smartwatch,2025-07-12,3,2452.99
+Email,FlashDeal,6,24d0d163-a1e3-4119-83c8-ad60d6058d42,Yoga Mat,2025-07-18,3,3077.3
+YouTube,NewLaunch,42,ebeb9854-5bee-4f02-8d24-26a9546b8efb,Hair Serum,2025-07-15,2,3671.65
+LinkedIn,FlashDeal,46,cc86de1e-7cbc-4893-8e46-2be6a26596f8,Protein Powder,2025-07-25,5,1070.37
+Email,SummerSale,47,807620a5-8e53-42c5-82b7-dbcf78500142,Smartwatch,2025-06-28,5,7722.17
+Instagram,SummerSale,4,3c0f5fd6-5f7a-4f00-a575-a803834e8e6e,Smartwatch,2025-07-18,2,3264.82
+Email,SummerSale,22,669d4c28-7b50-4beb-a44b-f14e44dcaf0b,Yoga Mat,2025-06-13,3,4386.27
+Email,FestiveDrop,11,81bd3f14-d2f9-4c7e-9499-0b36ce6d862f,Smartwatch,2025-07-26,3,5866.64
+Twitch,FestiveDrop,46,6b627d18-7ee7-47ba-999b-ddeb468329c4,Smartwatch,2025-06-09,4,4375.2
+YouTube,NewLaunch,27,9ff29485-0241-4a94-b85c-3ce9ff6a0c07,Protein Powder,2025-07-21,2,994.97
+LinkedIn,FlashDeal,49,8cba8c33-cb1e-4ee6-9023-a446d3ca23dd,Protein Powder,2025-07-12,1,1699.13
+YouTube,NewLaunch,39,a8ec89a9-b4be-4842-a451-c6fd94dd9ada,Running Shoes,2025-06-25,2,1302.65
+YouTube,FestiveDrop,45,767f390f-6e2f-427e-ae36-161c0629a9a6,Running Shoes,2025-06-22,3,2791.33
+Instagram,FlashDeal,44,0244287e-d0ae-4456-a661-f0ef71c105a2,Protein Powder,2025-06-17,5,3737.5
+Twitch,FlashDeal,31,76701860-70e2-4acd-a220-822e3dba6f9b,Hair Serum,2025-06-14,3,5093.28
+LinkedIn,SummerSale,34,1e20e2ed-a984-43ce-96f5-11f953d2f5d6,Running Shoes,2025-06-19,2,828.53
+Instagram,NewLaunch,39,0b2d30b3-8aa3-4d1f-9f19-1dbdd4fc90ab,Protein Powder,2025-07-16,2,3129.6
+Email,NewLaunch,12,4bb4e429-0af4-4c15-80cd-25ac5f42f1a6,Hair Serum,2025-06-10,3,1182.2
+Instagram,SummerSale,3,1961c79b-eaff-4525-a409-1bfd171f1eb0,Protein Powder,2025-06-10,3,5197.02
+Twitch,SummerSale,29,d7f16c62-2ce0-4030-aa99-a302ba29905b,Hair Serum,2025-06-12,5,6794.76
+Instagram,FlashDeal,38,311b1ec8-1e20-48c2-8c65-cf4ecd0a9ac0,Yoga Mat,2025-07-23,3,1334.6
+Email,FlashDeal,25,b49125c0-4f2e-4e25-a760-e6442eb4ab71,Smartwatch,2025-06-15,1,1653.96
+Email,FlashDeal,44,87b555d2-78f0-42c1-86a2-dd5902d79286,Hair Serum,2025-06-28,4,2422.58
+Email,FlashDeal,14,9e2ed787-4b11-4739-8d01-400a7a999db5,Protein Powder,2025-08-04,2,2216.28
+YouTube,NewLaunch,1,c6d4bbab-8e1d-4de8-b385-c902b3750ef9,Hair Serum,2025-06-29,4,6743.45
+Twitch,SummerSale,30,05bc2454-84cd-4c87-a0d9-8380438db1a8,Hair Serum,2025-07-01,1,1644.9
+YouTube,FlashDeal,31,15e1145b-ed58-40e1-b73a-d06e52aae85a,Protein Powder,2025-07-11,2,2963.86
+Instagram,FlashDeal,47,4195e7ba-a993-4c49-ab49-65a0a3e9b291,Yoga Mat,2025-06-08,3,2647.72
+LinkedIn,FlashDeal,6,2fd4b2ee-f0cd-42c3-bf2a-41b8dc20e6d0,Yoga Mat,2025-07-18,4,2759.54
+YouTube,FlashDeal,40,aa48ec72-0370-4de4-bc53-116cd1a1700c,Hair Serum,2025-07-24,1,1045.0
+Email,FlashDeal,44,e8292f88-0504-4b49-b3de-dd9649ec8b59,Hair Serum,2025-07-20,2,2793.47
+Instagram,FlashDeal,4,8928a50b-8e91-4e4d-afde-214d79b121b6,Hair Serum,2025-06-23,4,7063.22
+LinkedIn,NewLaunch,30,7529e4dd-d3e6-48db-a657-d2a0a6f6f389,Hair Serum,2025-07-05,3,4668.6
+LinkedIn,SummerSale,43,a9f5e21b-447c-4dda-ab37-3029bcb1a07e,Protein Powder,2025-07-09,1,1514.66
+Instagram,NewLaunch,36,32759f31-ea8f-4731-9168-752a3f7acdd6,Protein Powder,2025-07-16,2,716.99
+Twitch,FlashDeal,5,240c3960-55b4-4392-a53c-f667f3bfd0b5,Yoga Mat,2025-07-06,4,2298.63
+Instagram,FlashDeal,48,7544ebb7-073d-437b-b904-56db104035fe,Hair Serum,2025-06-29,2,2417.59
+Instagram,SummerSale,16,818d1811-e3eb-498b-b32c-397cbac3fd88,Protein Powder,2025-08-03,3,5767.24
+Twitch,FestiveDrop,20,607ee55d-06de-4122-ac3a-16b1178f7def,Protein Powder,2025-07-09,5,1284.65
+YouTube,SummerSale,15,01b0c2b7-e5d0-4dd5-85b6-c4d3aa28ddba,Protein Powder,2025-06-19,4,4373.49
+LinkedIn,FestiveDrop,38,ab0cbe76-9c84-4c88-a876-45bd46f60f34,Running Shoes,2025-06-23,1,1619.13
+Email,FestiveDrop,13,04831123-fd59-4f13-b13c-354db6bb1ab4,Yoga Mat,2025-08-02,5,6707.13
+Twitch,SummerSale,46,05f2efb8-2280-4bd2-968a-4e13cd8963d5,Hair Serum,2025-07-01,5,3731.81
+LinkedIn,NewLaunch,19,07902903-74a6-4e03-ad8f-b4482e03ff5a,Hair Serum,2025-07-04,4,3243.64
+YouTube,SummerSale,3,e862a3a2-6479-4a95-81e6-fe1bd63202ad,Smartwatch,2025-06-17,1,365.84
+Email,FestiveDrop,9,d465dace-4abd-48bc-bc3a-3e7add3c7792,Protein Powder,2025-06-25,3,1571.58
+LinkedIn,NewLaunch,19,402fe0eb-2f9e-4b37-aa04-107d55fc3532,Running Shoes,2025-07-09,2,3897.81
+LinkedIn,SummerSale,17,ffd835bd-7733-4006-b24c-25de0bbbe278,Protein Powder,2025-07-16,2,2420.14
+LinkedIn,FestiveDrop,9,f93154c6-34b3-484b-bcba-1bb92d89f5af,Hair Serum,2025-07-24,4,1296.72
+LinkedIn,SummerSale,26,dee22484-111c-4a51-8411-5507b29e04a1,Protein Powder,2025-08-05,1,514.46
+YouTube,NewLaunch,12,892ac897-eca3-4635-9484-3366a7ffcced,Running Shoes,2025-06-13,4,6530.76
+YouTube,FestiveDrop,24,f9952711-872a-4dd6-a493-b7c810e76816,Yoga Mat,2025-06-14,4,5848.09
+Email,SummerSale,40,ddea4a80-3cd9-4a47-849e-ffe52b8a4ff5,Running Shoes,2025-07-19,1,341.05
+YouTube,FestiveDrop,20,571af43d-1b32-4682-97f8-dd45d348cb2c,Yoga Mat,2025-07-07,5,1177.58
+YouTube,FlashDeal,18,8df104e7-e938-405f-8f4d-508c594dd3b4,Protein Powder,2025-07-27,1,391.59
+LinkedIn,FlashDeal,33,2cc55cd1-0731-46bd-b9b9-01e9a3d60dc3,Smartwatch,2025-06-23,1,290.99
+Twitch,FlashDeal,28,46623504-7c23-4a16-ad93-173525563ab7,Running Shoes,2025-07-14,5,7103.26
+Email,FlashDeal,9,2778a0a0-22fb-4eb7-9126-daaad20612dd,Running Shoes,2025-06-15,2,3132.75
+Instagram,SummerSale,33,8dfa13d2-b29e-47d7-b8c1-3098c6fef83c,Hair Serum,2025-06-12,1,575.27
+Email,NewLaunch,34,d92c7fd1-0c53-4d2c-a5c1-4b44166337c9,Protein Powder,2025-08-01,3,1164.96
+Instagram,FestiveDrop,3,d0c703c0-5790-443f-8b6a-cf2e4b4f5ef7,Hair Serum,2025-07-29,2,3481.29
+LinkedIn,FlashDeal,22,80c326bd-1df4-4594-9bcf-3ad31215addb,Smartwatch,2025-08-06,5,8293.22
+Email,FestiveDrop,7,7528f8e7-9818-44cb-a7f7-6d555df8a19f,Yoga Mat,2025-07-02,1,1969.64
